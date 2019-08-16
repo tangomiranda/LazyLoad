@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "testLoopback": {
+    "host": "",
+    "port": 0,
+    "url": "postgres://nebtgxka:P51rDmH4909R2RGW6L-f2jkYrod1OODD@pellefant.db.elephantsql.com:5432/nebtgxka",
+    "database": "Mall",
+    "password": "smp",
+    "name": "testLoopback",
+    "user": "smp",
+    "connector": "postgresql"
+  }
+}
